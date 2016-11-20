@@ -1,0 +1,27 @@
+{
+  "name": "starwars-name",
+  "version": "1.0.0",
+  "description": "Get random star wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sevkibaba/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Sevki Yontem <sevkiyontem@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sevkibaba/starwars-names/issues"
+  },
+  "homepage": "https://github.com/sevkibaba/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
